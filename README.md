@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Divine Grace Lavente!
+- currently a 4th year student in UP Visayas
+
+## Stack
+<img src="https://skillicons.dev/icons?i=python,c,java,php,html,javascript,typescript,cs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,latex,css" />
+<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,postman,aws,androidstudio" />
+<img src="https://skillicons.dev/icons?i=ps,pr,unity,figma,vscode" />
