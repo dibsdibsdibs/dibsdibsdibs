@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Divine Grace Lavente!
-- currently a 4th year student in UP Visayas
+I'm Divine Grace Lavente, a BS Computer Science Graduate from University of the Philippines Visayas.
 
 ## Stack
 <img src="https://skillicons.dev/icons?i=python,c,java,php,html,javascript,typescript,cs" />
