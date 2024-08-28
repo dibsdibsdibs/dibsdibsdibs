@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Divine Grace Lavente, a BS Computer Science Graduate from University of the Philippines Visayas.
 
 ## Stack
-<img src="https://skillicons.dev/icons?i=python,c,java,php,html,javascript,typescript,cs" />
+<img src="https://skillicons.dev/icons?i=python,c,java,php,html,javascript,typescript,cs,express" />
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,latex,css" />
 <img src="https://skillicons.dev/icons?i=git,github" />
-<img src="https://skillicons.dev/icons?i=mysql,postman,aws,androidstudio,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,aws,androidstudio,docker" />
 <img src="https://skillicons.dev/icons?i=ps,pr,unity,figma,vscode" />
