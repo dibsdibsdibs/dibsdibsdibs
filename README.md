@@ -22,5 +22,5 @@ I'm Divine Grace Lavente, a BS Computer Science Graduate from University of the 
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,latex,css" />
 <img src="https://skillicons.dev/icons?i=git,github" />
-<img src="https://skillicons.dev/icons?i=mysql,postman,aws,androidstudio" />
+<img src="https://skillicons.dev/icons?i=mysql,postman,aws,androidstudio,docker" />
 <img src="https://skillicons.dev/icons?i=ps,pr,unity,figma,vscode" />
