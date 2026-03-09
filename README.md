@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Divine Grace Lavente, a BS Computer Science Graduate from University of the Philippines Visayas.
+I'm Divine Grace Lavente, a Software Developer.
 
 ## Stack
 <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,cs,html,css,sass,express,php" />
