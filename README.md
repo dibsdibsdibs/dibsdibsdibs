@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Divine Grace Lavente, a Software Developer.
 
 ## Stack
-Framework: 
+<!-- Framework: -->
 <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=fff" />
 <img alt="express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
@@ -30,7 +30,7 @@ Framework:
 <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff" />
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 <br/>
-Language: 
+<!-- Language: -->
 <img alt="css" src="https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
@@ -40,15 +40,15 @@ Language:
 <img alt="sass" src="https://img.shields.io/badge/Sass-C69?style=flat-square&logo=sass&logoColor=fff" />
 <img alt="typeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <br/>
-Database:
+<!-- Database: -->
 <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 <img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
 <img alt="redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
 <br />
-Tools & Practices: 
-<img alt="confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff" />
-<img alt="notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
+<!-- Tools & Practices: -->
+<img alt="confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=fff" />
+<img alt="notion" src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=fff" />
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
