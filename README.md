@@ -55,3 +55,4 @@ Tools & Practices:
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff" />
 <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
