@@ -23,7 +23,7 @@ Framework:
 <img alt="expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=fff" />
 <img alt="express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
 <img alt="next" src="https://img.shields.io/badge/Next.js-black?style=flat-squarelogo=next.js&logoColor=white"/>
-<img alt="nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img alt="nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
 <img alt="node" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="reactnative" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
